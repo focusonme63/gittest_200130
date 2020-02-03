@@ -8,6 +8,10 @@
 </head>
 <body>
 test2.jsp 수정
+<<<<<<< HEAD
 eclipse
+=======
+    github
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
